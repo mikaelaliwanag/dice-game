@@ -7,7 +7,7 @@
 .dice {
   text-align: center;
   display: inline-block;
-  margin: auto;
+  margin: auto 1rem;
 }
 
 body {
@@ -18,7 +18,7 @@ h1 {
   margin: 10px;
   padding-left: 40px;
   font-family: 'Lobster', cursive;
-  text-shadow: 7px 0 #232931;
+  text-shadow: 7px 0 #222830;
   font-size: 6rem;
   color: #4ECCA3;
 }
