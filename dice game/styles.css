@@ -16,6 +16,7 @@ body {
 
 h1 {
   margin: 30px;
+  padding-left: 45px;
   font-family: 'Lobster', cursive;
   text-shadow: 7px 0 #232931;
   font-size: 7rem;
