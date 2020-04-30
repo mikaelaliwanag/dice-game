@@ -14,7 +14,6 @@ function rollDice() {
 	document.querySelectorAll("img")[1].setAttribute("src", "images/dice" + randomNumber2 + ".png");
 
 	//Changes h1 to display winner
-
 	if (randomNumber1 > randomNumber2) {
 		document.querySelector("h1").innerHTML = "Player 1 wins! 🚩";
 	} else if (randomNumber2 > randomNumber1) {
